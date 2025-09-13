@@ -1,0 +1,4 @@
+stepDefinitions\Hooks.class
+stepDefinitions\RegisterSteps.class
+stepDefinitions\PurchaseSteps.class
+runners\TestRunner.class

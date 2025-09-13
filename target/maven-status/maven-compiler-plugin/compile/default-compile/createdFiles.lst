@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\ProductPage.class
+pages\LoginPage.class
+utils\DriverFactory.class
+pages\HomePage.class
+utils\ConfigReader.class
+pages\RegisterPage.class

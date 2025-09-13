@@ -1,0 +1,8 @@
+<ExtentReports>
+    <Configuration>
+        <Theme>standard</Theme>
+        <DocumentTitle>Automation Report</DocumentTitle>
+        <ReportName>UI Suite</ReportName>
+        <TimelineEnabled>true</TimelineEnabled>
+    </Configuration>
+</ExtentReports>
